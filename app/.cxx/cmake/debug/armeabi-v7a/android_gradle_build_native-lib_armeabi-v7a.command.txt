@@ -1,0 +1,7 @@
+Executable : C:\Users\Matt\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
+arguments : 
+-C
+C:\Users\Matt\FINAL\android-wavemaker-master\app\.cxx\cmake\debug\armeabi-v7a
+native-lib
+jvmArgs : 
+

@@ -1,0 +1,52 @@
+{
+  "stringTable": {
+    "0": "C:/Users/Matt/FINAL/android-wavemaker-master/app/.cxx/cmake/release/x86",
+    "1": "--target=i686-none-linux-android26 --gcc-toolchain=C:/Users/Matt/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=C:/Users/Matt/AppData/Local/Android/Sdk/ndk/20.0.5594570/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dnative_lib_EXPORTS -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -fno-addrsig -Wa,--noexecstack -Wformat -Werror=format-security -std=c++11 -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "C:\\Users\\Matt\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\Matt\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Matt\\FINAL\\android-wavemaker-master\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Matt\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Matt\\FINAL\\android-wavemaker-master\\app\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Matt\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\Matt\\FINAL\\android-wavemaker-master\\app\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-x86": {
+      "buildCommand": "C:\\Users\\Matt\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Matt\\FINAL\\android-wavemaker-master\\app\\.cxx\\cmake\\release\\x86\" native-lib",
+      "buildType": "release",
+      "toolchain": "4162267053",
+      "abi": "x86",
+      "artifactName": "native-lib",
+      "files": [
+        {
+          "src": "C:\\Users\\Matt\\FINAL\\android-wavemaker-master\\app\\src\\main\\cpp\\jni-bridge.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\Matt\\FINAL\\android-wavemaker-master\\app\\src\\main\\cpp\\Oscillator.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "C:\\Users\\Matt\\FINAL\\android-wavemaker-master\\app\\src\\main\\cpp\\AudioEngine.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "C:\\Users\\Matt\\FINAL\\android-wavemaker-master\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libnative-lib.so"
+    }
+  },
+  "toolchains": {
+    "4162267053": {
+      "cppCompilerExecutable": "C:\\Users\\Matt\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

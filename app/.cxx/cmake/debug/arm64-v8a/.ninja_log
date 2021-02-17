@@ -1,0 +1,5 @@
+# ninja log v5
+1	1069	609472221	CMakeFiles/native-lib.dir/src/main/cpp/jni-bridge.cpp.o	2238d0c3d4854993
+396	1238	609472222	CMakeFiles/native-lib.dir/src/main/cpp/Oscillator.cpp.o	980a8ab6c950b853
+725	1816	609472222	CMakeFiles/native-lib.dir/src/main/cpp/AudioEngine.cpp.o	f4dec3026474ff5b
+1817	2290	609472223	../../../../build/intermediates/cmake/debug/obj/arm64-v8a/libnative-lib.so	ec421716042bc36d

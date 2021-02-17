@@ -1,0 +1,5 @@
+ninja: Entering directory `C:\Users\Matt\FINAL\android-wavemaker-master\app\.cxx\cmake\debug\armeabi-v7a'
+[1/4] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/jni-bridge.cpp.o
+[2/4] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/Oscillator.cpp.o
+[3/4] Building CXX object CMakeFiles/native-lib.dir/src/main/cpp/AudioEngine.cpp.o
+[4/4] Linking CXX shared library ..\..\..\..\build\intermediates\cmake\debug\obj\armeabi-v7a\libnative-lib.so

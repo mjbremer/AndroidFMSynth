@@ -1,0 +1,19 @@
+{
+  "buildFiles": [
+    "C:\\Users\\Matt\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\platforms.cmake",
+    "C:\\Users\\Matt\\AppData\\Local\\Android\\Sdk\\ndk\\20.0.5594570\\build\\cmake\\android.toolchain.cmake",
+    "C:\\Users\\Matt\\FINAL\\android-wavemaker-master\\app\\CMakeLists.txt"
+  ],
+  "cleanCommands": [
+    "C:\\Users\\Matt\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Matt\\FINAL\\android-wavemaker-master\\app\\.cxx\\cmake\\release\\x86\" clean"
+  ],
+  "buildTargetsCommand": "C:\\Users\\Matt\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"C:\\Users\\Matt\\FINAL\\android-wavemaker-master\\app\\.cxx\\cmake\\release\\x86\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "native-lib-Release-x86": {
+      "artifactName": "native-lib",
+      "buildCommand": "C:\\Users\\Matt\\AppData\\Local\\Android\\Sdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"C:\\Users\\Matt\\FINAL\\android-wavemaker-master\\app\\.cxx\\cmake\\release\\x86\" native-lib",
+      "abi": "x86",
+      "output": "C:\\Users\\Matt\\FINAL\\android-wavemaker-master\\app\\build\\intermediates\\cmake\\release\\obj\\x86\\libnative-lib.so"
+    }
+  }
+}
